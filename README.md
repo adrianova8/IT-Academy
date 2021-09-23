@@ -1,4 +1,4 @@
 # IT-Academy
-En este repositorio se incluirán todos mis proyectos a lo largo del itinerario Data Science-Python.
+All my projects along the Data Science-Python pathway will be included in this repository.
 
-Mi nombre es Adrià Nova y actualmente me encuentro formándome en la IT Academy
+My name is Adrià Nova and I am currently training at the IT Academy
