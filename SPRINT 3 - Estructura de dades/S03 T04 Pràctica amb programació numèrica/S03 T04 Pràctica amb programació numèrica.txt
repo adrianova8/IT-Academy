@@ -1,5 +1,0 @@
-S03 T04 Pràctica amb programació numèrica:
-
-https://github.com/adrianova8/Jupyter_Markdown.git
-
-
